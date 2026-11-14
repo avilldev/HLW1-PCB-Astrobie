@@ -20,6 +20,8 @@ The pet wanders around the OLED screen.
 - **Animations:** Each action has an animation. For example, selecting the Dock action triggers a nap cycle with floating "z" characters.
 - **Sensors:** The MPU6050 detects shaking to wake the pet up. The DHT11 reads real-world room temperature and humidity to display in the stats.
 
+The enclosure (separate project) can be found [here](https://github.com/avilldev/half-life-week2-CAD-Astrobie-Enclosure).
+
 ## BOM
 | Part                                                                                                                                                                                                                                                                      | What it's for                        | Qty | Unit  | Total      | Vendor                                                                                                                                                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | --- | ----- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
